@@ -33,7 +33,7 @@ function AddPage() {
 
   return (
     <div className='add_pag'>
-      {/* Button to go back to Home */}
+      
       <div className="navbar">
         <button onClick={() => navigate('/')}>Go to Home</button>
       </div>
