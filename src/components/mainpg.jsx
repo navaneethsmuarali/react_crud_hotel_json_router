@@ -8,10 +8,16 @@ function Mainpg() {
         navigate('/Homepage')
     }
   return (
+    <>
+
+
+
     <div className='main_pg'>
         <h1 className='mainh1'>welcome</h1>
       <button className='redire-btn' onClick={handleb}>click me</button>
     </div>
+  
+  </>
   )
 }
 

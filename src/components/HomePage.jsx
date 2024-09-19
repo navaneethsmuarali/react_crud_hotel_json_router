@@ -35,7 +35,7 @@ function HomePage() {
       
       <nav className="navbar">
         <button className='add-btn' onClick={handleAdd}>Add Mobile</button>
-        
+        <button onClick={() => navigate('/')}>Go to Home</button>
       </nav>
 
       <h1>Mobile List</h1>

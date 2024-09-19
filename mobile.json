@@ -1,26 +1,6 @@
 {
   "mobiles": [
     {
-      "id": "3",
-      "model": "Pixel 6",
-      "brand": "Google",
-      "price": 799,
-      "rating": 4.6,
-      "stock": 10,
-      "description": "Google's latest smartphone with excellent AI features.",
-      "thumbnail": "https://via.placeholder.com/150"
-    },
-    {
-      "id": "4",
-      "model": "OnePlus 9",
-      "brand": "OnePlus",
-      "price": 729,
-      "rating": 4.5,
-      "stock": 15,
-      "description": "Fast and smooth with 120Hz display.",
-      "thumbnail": "https://via.placeholder.com/150"
-    },
-    {
       "id": "9961",
       "model": "nokia c12",
       "brand": "Nolia",
@@ -39,6 +19,16 @@
       "stock": "1",
       "description": "sssss",
       "thumbnail": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-white?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=UXp1U3VDY3IyR1hNdHZwdFdOLzg1V0tFK1lhSCtYSGRqMUdhR284NTN4OWhabGVFdVhnaExpMWhzbVh0SzhIT09MekhWSGZtV1pvV240QzNuTk80VXpBSHlqQStCOGVBOUJkSkVqU0hLTkFVYVhGbzFObzc2QW9uNVNsMXdYZkhmbW94YnYxc1YvNXZ4emJGL0IxNFp3PT0=&traceId=1"
+    },
+    {
+      "id": "ba42",
+      "model": "samsung s23",
+      "brand": "samsung",
+      "price": "575488",
+      "rating": "4",
+      "stock": "7",
+      "description": "adadad",
+      "thumbnail": "https://images.samsung.com/in/smartphones/galaxy-s24-ultra/images/galaxy-s24-ultra-highlights-color-titanium-gray-back-mo.jpg?imbypass=true"
     }
   ]
 }
